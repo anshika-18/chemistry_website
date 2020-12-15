@@ -1,0 +1,28 @@
+.menu-bars
+{
+    background-color: black;
+    padding: 20px;
+    line-height: 2rem;
+    margin-top: 135px;
+    height: 82vh;
+    position: fixed;
+    overflow-y: scroll;
+    width:350px;
+}
+
+.chapter
+{
+    text-decoration: none;
+    color:blanchedalmond
+}
+.chapter:hover
+{
+    color: red;
+}
+.head
+{
+    color: black;
+    background-color: white;
+    font-weight: 900;
+    padding-left: 20px;
+}

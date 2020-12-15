@@ -1,0 +1,15 @@
+*
+{
+    margin: 0;
+    box-sizing: border-box;
+}
+.switch
+{
+    display: grid;
+    grid-template-columns: 22% 78%;
+}
+.to-navfix
+{
+    position: fixed;
+    width: 100%;
+}

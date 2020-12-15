@@ -1,0 +1,14 @@
+.out
+{
+    background-color: turquoise;
+   align-items: center;
+   text-align: center;
+   padding: 5px;
+}
+button
+{
+    border: 0;
+    height: 40px;
+    width: 100px;
+    margin-left: 100px;
+}
